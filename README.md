@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Amir
+# <p align="left">Hello! I'm Amir</p>
 <p align="left">
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="React">
   <img src=https://img.shields.io/badge/JavaScript-f1dc4e?style=for-the-badge&logo=javascript&logoColor=black alt="JavaScript">
@@ -18,4 +18,4 @@ Currently interning with Opal to heighten the potential of mentorship matching
 
 ##
 
-[website](https://amiraunyasopon.github.io) | [hackathons](https://devpost.com/amiraunyasopon) | [linkedin](https://www.linkedin.com/in/amiraunyasopon/)
+<p align="left"><a href="https://amiraunyasopon.github.io">website</a> | <a href="https://devpost.com/amiraunyasopon">hackathons</a> | <a href="https://www.linkedin.com/in/amiraunyasopon/">linkedin</a>
