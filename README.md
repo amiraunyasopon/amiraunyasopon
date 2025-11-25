@@ -14,7 +14,7 @@
 Currently:
 - Software Development Intern @ Opal
 - Academic and Alumni Affairs Committee Member @ UCI ICS Student Council
-- Working on Antevents, a platform for Anteaters to post and sign up for upcoming events
+- Working on Antevents, a platform for Anteaters to post, share, and sign up for upcoming UCI-affiliated events
 
 Previously:
 - Data Analytics Intern @ City of Burbank
