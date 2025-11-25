@@ -22,4 +22,4 @@ Previously:
 
 ##
 
-**[LinkedIn](https://www.linkedin.com/in/amiraunyasoponl/)** | **[Website](https://amiraunyasopon.github.io)** | **[Devpost](https://devpost.com/amiraunyasopon)**
+**[LinkedIn](https://www.linkedin.com/in/amiraunyasopon/)** | **[Website](https://amiraunyasopon.github.io)** | **[Devpost](https://devpost.com/amiraunyasopon)**
