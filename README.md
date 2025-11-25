@@ -14,7 +14,7 @@
 
 I'm learning full stack development, reading manhwas, and lifting weights. Studying Computer Science at the University of California, Irvine.
 
-Currently on the programming team for Dungeon Dilemma, a multiplayer LAN game.
+Currently interning with Opal to heighten the potential of mentorship matching
 
 ##
 
