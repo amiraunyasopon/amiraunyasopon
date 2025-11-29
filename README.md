@@ -10,16 +10,9 @@
   <img src=https://img.shields.io/badge/Python-4076A5?style=for-the-badge&logo=python&logoColor=white alt="Python">
   <img src=https://img.shields.io/badge/SQL-6364d9?style=for-the-badge&logo=sql&logoColor=white alt="SQL">
 </p>
-
-Currently:
-- Software Engineer Intern @ Opal
-- President of GDG on Campus: UC Irvine
-- Academic and Alumni Affairs Committee Member @ UCI ICS Student Council
-- Working on Antevents, a platform for Anteaters to post, share, and sign up for upcoming UCI-affiliated events
-
-Previously:
-- Data Analytics Intern @ City of Burbank
-- Contributed to Dungeon Dilemma, a multiplayer LAN game under VGDC@UCI
+<div align="center">
+I love to learn, build for good, and attend hackathons.
+</div>
 
 ##
 
