@@ -10,9 +10,17 @@
   <img src=https://img.shields.io/badge/Python-4076A5?style=for-the-badge&logo=python&logoColor=white alt="Python">
   <img src=https://img.shields.io/badge/SQL-6364d9?style=for-the-badge&logo=sql&logoColor=white alt="SQL">
 </p>
-<div align="center">
-I love to learn, build for good, and attend hackathons.
-</div>
+
+<p>I love to learn, build for good, and attend hackathons.</p>
+
+Currently:
+- Software Engineer Intern @ Opal
+- President @ GDG on Campus: UC Irvine
+- Academic and Alumni Affairs Committee Member @ UCI ICS Student Council
+
+Previously:
+- Data Analytics Intern @ City of Burbank
+- Game Programmer @ Dungeon Dilemma, a multiplayer LAN game under VGDC@UCI
 
 ##
 
