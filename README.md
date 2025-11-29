@@ -12,7 +12,8 @@
 </p>
 
 Currently:
-- Software Development Intern @ Opal
+- Software Engineer Intern @ Opal
+- President of GDG on Campus: UC Irvine
 - Academic and Alumni Affairs Committee Member @ UCI ICS Student Council
 - Working on Antevents, a platform for Anteaters to post, share, and sign up for upcoming UCI-affiliated events
 
