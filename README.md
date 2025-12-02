@@ -15,7 +15,7 @@
 
 Currently:
 - Software Engineer Intern @ Opal
-- President @ GDG on Campus: UC Irvine
+- President @ GDG on Campus - UC Irvine
 - Academic and Alumni Affairs Committee Member @ UCI ICS Student Council
 
 Previously:
