@@ -13,14 +13,7 @@
 
 <p>I love to learn, build for good, and attend hackathons.</p>
 
-Currently:
-- Software Engineer Intern @ Opal
-- President @ GDG on Campus - UC Irvine
-- Academic and Alumni Affairs Committee Member @ UCI ICS Student Council
-
-Previously:
-- Data Analytics Intern @ City of Burbank
-- Game Programmer @ Dungeon Dilemma, a multiplayer LAN game under VGDC@UCI
+Opal Community, GDGUCI, ICSSC
 
 ##
 
