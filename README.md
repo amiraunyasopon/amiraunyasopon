@@ -14,9 +14,8 @@
 
 <p>I love to learn, build for good, and attend hackathons.</p>
 
-<p>Incoming @ World Wide Technology</p>
-<p>Previously @ Opal, City of Burbank</p>
-
+<p>Incoming @ WWT</p>
+<p>Previously @ City of Burbank</p>
 ##
 
 **[LinkedIn](https://www.linkedin.com/in/amiraunyasopon/)** | **[Website](https://amiraunyasopon.github.io)** | **[Devpost](https://devpost.com/amiraunyasopon)**
