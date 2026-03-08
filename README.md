@@ -13,12 +13,12 @@
 
 <p>Incoming: Engineering Intern @ World Wide Technology</p>
 <p>Currently: Software Engineer Intern @ Opal</p>
-<p>Previously: Data Analytics Intern @ City of Burbank</p>
+<p>Previously: Data Analyst Intern @ City of Burbank</p>
 
 ##
 
 <p>President - Google Developer Group on Campus at UCI</p>
-<p>Academic and Alumni Affairs Commitee Member - ICS Student Council</p>
+<p>Academic & Alumni Affairs Commitee Member - ICS Student Council</p>
 
 ##
 
