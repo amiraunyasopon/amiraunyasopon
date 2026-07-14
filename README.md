@@ -1,6 +1,6 @@
 ## Heya! I'm Amir 😁
 
-I am a CS student at UC Irvine, currently leading as President for [**Google Developer Group on Campus @ UCI**](https://gdg.community.dev/gdg-on-campus-university-of-california-irvine/) and assisting with Academic & Alumni Affairs for the [**ICS Student Council**](https://studentcouncil.ics.uci.edu/). I am interested in full stack development and business intelligence!
+I am a CS student at UC Irvine, currently leading as President for [**Google Developer Group on Campus @ UCI**](https://gdg.community.dev/gdg-on-campus-university-of-california-irvine/) and assisting with Academic & Alumni Affairs for the [**ICS Student Council**](https://studentcouncil.ics.uci.edu/). I am interested in full stack, infrastructure, & cybersecurity!
 
 
 Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/amiraunyasopon/), check out my [**Website**](https://amiraunyasopon.github.io), or view my [**Devpost**](https://devpost.com/amiraunyasopon)!
